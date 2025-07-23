@@ -1,3 +1,4 @@
+streamlit
 moviepy
 numpy
 openai
@@ -6,3 +7,5 @@ transformers
 torch
 torchaudio
 yt-dlp
+whisper
+pandas
